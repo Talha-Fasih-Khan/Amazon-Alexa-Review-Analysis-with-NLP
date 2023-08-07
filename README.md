@@ -32,4 +32,4 @@ The purpose of this project was to perform sentiment analysis on Amazon Echo rev
 ## Deliverables
 * [Echo Sentiment Analysis with NLP (Slide Deck)](https://docs.google.com/presentation/d/1DdEV27Q-v0rsvDSB0I90FuqTqteirBAUMNwjbLNIn4g/edit?usp=sharing)
 
-* [Echo Sentiment Analysis with NLP (Notebook)](https://github.com/Talha-Fasih-Khan/Twitter-Sentiment-Analysis-with-NLP/blob/5dc831d0046730a1d6e4729f01fa0d87a54ebefa/Twitter_Sentiment_Analysis.ipynb)
+* [Echo Sentiment Analysis with NLP (Notebook)](https://github.com/Talha-Fasih-Khan/Amazon-Alexa-Review-Analysis-with-NLP/blob/47385063f57178ae1943fbf84c78f3ca7893d91a/Amazon_Review_Analysis.ipynb)

@@ -1,4 +1,4 @@
-# Amazon-Alexa-Review-Analysis-with-NLP
+# Amazon-Echo-Review-Analysis-with-NLP
 
 #### -- Project Status: [Completed]
 
@@ -28,3 +28,8 @@ The purpose of this project was to perform sentiment analysis on Amazon Echo rev
     * Feature Extraction: The verified reviews were selected as the primary feature for sentiment analysis. Count vectorization was applied to convert the textual data into a numerical format suitable for analysis. This transformation enabled the utilization of machine learning algorithms.
     * Model Training and Evaluation: Three models were trained and evaluated: The naive Bayes classifier, the logistic regression model, and the gradient boosting classifier. The scikit-learn library was utilized for model implementation. The training data was split into a training set and a test set. Classification reports and confusion matrices were used to evaluate the performance of each model.
     * Word Clouds: Word clouds were created to visualize the most frequently used words in the Amazon Echo reviews. This helped identify common themes or sentiments expressed by customers.
+
+## Deliverables
+* [Echo Sentiment Analysis with NLP (Slide Deck)](https://docs.google.com/presentation/d/1DdEV27Q-v0rsvDSB0I90FuqTqteirBAUMNwjbLNIn4g/edit?usp=sharing)
+
+* [Echo Sentiment Analysis with NLP (Notebook)](https://github.com/Talha-Fasih-Khan/Twitter-Sentiment-Analysis-with-NLP/blob/5dc831d0046730a1d6e4729f01fa0d87a54ebefa/Twitter_Sentiment_Analysis.ipynb)
